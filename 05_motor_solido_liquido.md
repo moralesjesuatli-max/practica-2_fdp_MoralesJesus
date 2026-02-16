@@ -1,0 +1,2 @@
+ Motor de combustible sólido y líquido
+Los motores de combustible sólido son más simples y fáciles de usar, pero no se pueden apagar una vez que inician. Funcionan como un cohete que se enciende y sigue hasta terminar el combustible, por otro lado, los motores de combustible líquido permiten mayor control, ya que se pueden regular o apagar. Por eso suelen usarse en misiones más complejas donde se necesita precisión.
