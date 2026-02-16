@@ -3,4 +3,4 @@ El diseño de un área de trabajo es importante porque influye en la productivid
 
 OpenAI. (2026). Sobre respuesta generada por ChatGPT sobre [Área de trabajo]. ChatGPT. https://chat.openai.com/
 
-![imagen](imagenes/images (27) (7).jpeg)
+![imagen](imagenes/images(27)(7).jpeg)
