@@ -3,4 +3,4 @@ Para saber si un yacimiento petrolero es rentable, primero se estudia el tipo de
 
 OpenAI. (2026). Sobre Respuesta generada por ChatGPT sobre [Yacimientos petroleros]. ChatGPT. https://chat.openai.com/
 
-![imagen](imagenes/images(27)(4).jpeg)
+![imagen](imagenes/yacimiento.jpeg)
