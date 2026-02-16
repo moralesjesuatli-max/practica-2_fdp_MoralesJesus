@@ -3,4 +3,4 @@ La recuperación secundaria se usa cuando el petróleo ya no sale por presión n
 
 OpenAI. (2026). Respuesta generada por ChatGPT sobre [Recuperación secundaria]. Reucperado el 16 de Febrero del 2026 desde: ChatGPT. https://chat.openai.com/
 
-!(imagenes/Recuperacion.jpeg)
+![imagen](imagenes/Recuperacion.jpeg)
