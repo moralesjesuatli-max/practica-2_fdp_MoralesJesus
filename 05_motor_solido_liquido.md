@@ -3,4 +3,4 @@ Los motores de combustible sólido son más simples y fáciles de usar, pero no 
 
 OpenAI. (2026). Respuesta generada por ChatGPT sobre [Motores]. Reucperado el 16 de Febrero del 2026 desde: ChatGPT. https://chat.openai.com/
 
-![imagen](imagenes/imagenes/cohetes-de-combustible-sólido-y-líquido-ilustración-los-motores-la-física-tecnología-para-que-utilizan-propulsantes-390326176.jpg)
+![imagen](imagenes/cohetes-de-combustible-sólido-y-líquido-ilustración-los-motores-la-física-tecnología-para-que-utilizan-propulsantes-390326176.jpg)
